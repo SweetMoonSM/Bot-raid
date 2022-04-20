@@ -1,4 +1,4 @@
-# Bot-raid
+# Bot-raid OPEN SOURCE
 A simple GUI bot raid v1.0
 # Setup
 1. Download Python
