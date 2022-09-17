@@ -1,5 +1,5 @@
 # Bot-raid OPEN SOURCE
-A simple GUI bot raid v1.0
+A simple GUI bot raid v1.0 ( Outdate )
 # Setup
 1. Download Python
 2. Do pip install colorama in CMD to download package
